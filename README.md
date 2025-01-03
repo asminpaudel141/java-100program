@@ -3,3 +3,8 @@
 # 1. Display odd numbers between 1 -100 
 # 2. Sum of odd numbers between 1 -100
 # 3. Total number of odd numbers between 1 -100
+# 4. Find sum of first n numbers
+# 5. Find the sum of the digits of a number 
+# 6. Calculate electricity bill 
+# 7.Java program to find Armstrong number
+# 8.Program to print Armstrong number between 1 to 1000
