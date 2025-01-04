@@ -1,7 +1,7 @@
 public class ArmstrongNumber {
     public static void main(String[] args){
         int n, original, sum=0, r;
-        n=1534;
+        n=375;
         original=n;
         for(int i=0;i<n;i++){
             while (n>0) {
