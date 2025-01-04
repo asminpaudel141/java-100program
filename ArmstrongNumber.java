@@ -14,7 +14,7 @@ public class ArmstrongNumber {
             System.out.println("Given number is armStrong number "+original);
             
         }else{
-            System.out.println("Given number is not a armStrong number "+original);
+            System.out.println("Given number is not a armStrong number  "+original);
         }
     }
 }
