@@ -11,9 +11,9 @@ public class PalindromeNumberCheck {
         }
 
         if (rem==original) {
-            System.out.println("The given no is  palindrome"+rem);
+            System.out.println("The given no is  palindrome "+rem);
         }else{
-            System.out.println("The given no is not palindrome"+rem);
+            System.out.println("The given no is not palindrome "+rem);
         }
     }
 }

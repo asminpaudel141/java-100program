@@ -8,3 +8,4 @@
 # 6. Calculate electricity bill 
 # 7.Java program to find Armstrong number
 # 8.Program to print Armstrong number between 1 to 1000
+# 9.Program to check the given number is Palindrome or not 
