@@ -6,10 +6,10 @@ class FloydsTriangle
     { 
       
        Scanner scan = new Scanner(System.in); 
-       System.out.println("Enter the number of rows\n"); 
+       System.out.println("Enter the number of rows\n" ); 
         
        int rows = scan.nextInt(); 
-       System.out.println("Floyd's Triangle Generated\n"); 
+       System.out.println("Floyd's Triangle Generated\n" ); 
        int count = 1; 
        for ( int i = 1 ; i <= rows ; i++ ) 
        { 
