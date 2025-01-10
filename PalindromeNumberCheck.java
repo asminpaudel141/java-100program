@@ -1,7 +1,7 @@
 public class PalindromeNumberCheck {
 
     public static void main(String[] args){
-        int number=121, r, rem=0;
+        int number=1331, r, rem=0;
         int original=number;
 
         while (number>0) {
