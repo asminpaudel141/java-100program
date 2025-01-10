@@ -9,3 +9,9 @@
 # 7.Java program to find Armstrong number
 # 8.Program to print Armstrong number between 1 to 1000
 # 9.Program to check the given number is Palindrome or not 
+# 10.Program to print palindrome number upto N numbers
+# 11.Program to print patterns of numbers and stars
+# 12.Print Floyds triangle
+# 13.Print numbers in sequence way 
+# 14.Program to find largest number in an array
+# 15.Program to find second largest number in an array
