@@ -9,6 +9,6 @@ public class LargestNumberIndex {
                 index=i;
             }
         }
-        System.out.println("The largest number index is : "+index);
+        System.out.println("The largest number index is :"+index);
     }
 }
