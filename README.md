@@ -16,3 +16,4 @@
 # 14.Program to find largest number in an array
 # 15.Program to find second largest number in an array
 # 16.Find the index of the largest number in an array 
+# 17.Program to Remove Duplicate Elements from Sorted Array
