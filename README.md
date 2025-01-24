@@ -20,3 +20,4 @@
 # 18.Program to add two matrix
 # 19.Program to find volume of cube
 # 20.Java Program to Calculate Simple Interest
+# 21.Check Vowel or Consonant in Java
