@@ -21,3 +21,4 @@
 # 19.Program to find volume of cube
 # 20.Java Program to Calculate Simple Interest
 # 21.Check Vowel or Consonant in Java
+# 22.Check Leap Year in Java
