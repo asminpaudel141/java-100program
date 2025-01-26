@@ -22,3 +22,4 @@
 # 20.Java Program to Calculate Simple Interest
 # 21.Check Vowel or Consonant in Java
 # 22.Check Leap Year in Java
+# 23.Java Program to Find Quotient and Remainder
