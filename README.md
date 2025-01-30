@@ -26,3 +26,4 @@
 # 24.Find Maximum of Three Numbers
 # 25.Java Program to Convert char to String and String to Char
 # 26.Print Pattern in Java
+# 27.Factorial of a Number
