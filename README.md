@@ -33,3 +33,4 @@
 # 31.Program to count number of words in given string
 # 32.Program to count number of duplicate words in given string
 # 33.Program to convert ASCI value to String
+# 34.Program to print character position count in a given string
