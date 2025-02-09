@@ -6,7 +6,7 @@ class LinearSearch
 {
     int i, num, searchval, array[];
     Scanner in = new Scanner(System.in);
-    System.out.println(" Enter number of elements");
+    System.out.println("Enter number of elements");
     num = in.nextInt();
     array = new int[num];
     System.out.println("Enter " + num + " integers");
