@@ -35,4 +35,4 @@
 # 33.Program to convert ASCI value to String
 # 34.Program to print character position count in a given string
 # 35.Program for Linear search
-# 36.
+# 36.Find the index of the smallest number in an array
