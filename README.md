@@ -36,3 +36,4 @@
 # 34.Program to print character position count in a given string
 # 35.Program for Linear search
 # 36.Find the index of the smallest number in an array
+# 37.program to print the reverse of a given number
