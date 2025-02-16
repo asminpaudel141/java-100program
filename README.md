@@ -38,10 +38,3 @@
 # 36.Find the index of the smallest number in an array
 # 37.program to print the reverse of a given number
 # 38.Program to print odd and even numbers from an array
-# 39.Program to print odd and even numbers from an array
-# 40.Program to print odd and even numbers from an array
-# 41.Program to print odd and even numbers from an array
-# 42.Program to print odd and even numbers from an array
-# 43.Program to print odd and even numbers from an array
-# 44.Program to print odd and even numbers from an array
-# 45.README.md
