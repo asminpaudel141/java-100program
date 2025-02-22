@@ -9,7 +9,7 @@ class Dog{
         System.out.println("sniff");
     }
     public void bark(){
-        System.out.println("bow");
+        System.out.println("bow ");
     }
     public static void main(String[] args) {
         Dog ap=new Dog();
