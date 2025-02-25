@@ -1,7 +1,7 @@
 class Animal{
     // method to be override
     void makeSound(){
-        System.out.println("Animal makes sound");
+        System.out.println("Animal makes sound ");
     }
 }
 
