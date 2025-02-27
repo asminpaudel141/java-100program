@@ -41,10 +41,8 @@
 # 39.Write a Java program to create a class and an object.
 # 40.Write a Java program to demonstrate constructor overloading
 # 41.Write a Java program to demonstrate method overriding.
-# 42.Write a Java program to demonstrate method overriding.
-# 43.Write a Java program to demonstrate method overriding.
-# 44.Write a Java program to demonstrate method overriding.
-# 45.Write a Java program to demonstrate method overriding.
+# 42.Write a Java program to create a class with private, public, and protected members.
+
 
 
 
