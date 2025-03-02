@@ -47,6 +47,7 @@
 # 45.Write a Java program to create a class with private, public, and protected members.
 # 46.Write a Java program to create a class with private, public, and protected members.
 # 47.Write a Java program to create a class with private, public, and protected members.
+# 48.Write a Java program to create a class with private, public, and protected members.
 
 
 
