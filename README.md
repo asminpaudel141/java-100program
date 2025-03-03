@@ -42,12 +42,7 @@
 # 40.Write a Java program to demonstrate constructor overloading
 # 41.Write a Java program to demonstrate method overriding.
 # 42.Write a Java program to create a class with private, public, and protected members.
-# 43.Write a Java program to create a class with private, public, and protected members.
-# 44.Write a Java program to create a class with private, public, and protected members.
-# 45.Write a Java program to create a class with private, public, and protected members.
-# 46.Write a Java program to create a class with private, public, and protected members.
-# 47.Write a Java program to create a class with private, public, and protected members.
-# 48.Write a Java program to create a class with private, public, and protected members.
+# 43.Write a Java program to implement inheritance
 
 
 
