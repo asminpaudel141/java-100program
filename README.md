@@ -57,7 +57,8 @@
 # 55.Write a Java program to implement inheritance
 # 56.Write a Java program to implement inheritance
 # 57.Write a Java program to implement inheritance
-# 58.Write a Java program to implement inheritance
+# 58.Write a Java program to implement inheritance 
+# 59.Write a Java program to implement inheritance
 
 
 
