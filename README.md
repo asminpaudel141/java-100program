@@ -43,22 +43,8 @@
 # 41.Write a Java program to demonstrate method overriding.
 # 42.Write a Java program to create a class with private, public, and protected members.
 # 43.Write a Java program to implement inheritance
-# 44.Write a Java program to implement inheritance
-# 45.Write a Java program to implement inheritance
-# 46.Write a Java program to implement inheritance
-# 47.Write a Java program to implement inheritance
-# 48.Write a Java program to implement inheritance
-# 49.Write a Java program to implement inheritance
-# 50.Write a Java program to implement inheritance
-# 51.Write a Java program to implement inheritance
-# 52.Write a Java program to implement inheritance
-# 53.Write a Java program to implement inheritance
-# 54.Write a Java program to implement inheritance
-# 55.Write a Java program to implement inheritance
-# 56.Write a Java program to implement inheritance
-# 57.Write a Java program to implement inheritance
-# 58.Write a Java program to implement inheritance 
-# 59.Write a Java program to implement inheritance
+# 44.Write a Java program to implement multiple inheritance using interfaces
+
 
 
 
