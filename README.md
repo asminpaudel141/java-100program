@@ -49,6 +49,7 @@
 # 47.Write a Java program to implement an abstract class.
 # 48.Write a Java program to implement an abstract class.
 # 49.Write a Java program to implement an abstract class.
+# 50.Write a Java program to implement an abstract class.
 
 
 
