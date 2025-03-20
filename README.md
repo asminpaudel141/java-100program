@@ -45,19 +45,7 @@
 # 43.Write a Java program to implement inheritance
 # 44.Write a Java program to implement multiple inheritance using interfaces
 # 45.Write a Java program to implement an abstract class.
-# 46.Write a Java program to implement an abstract class.
-# 47.Write a Java program to implement an abstract class.
-# 48.Write a Java program to implement an abstract class.
-# 49.Write a Java program to implement an abstract class.
-# 50.Write a Java program to implement an abstract class.
-# 51.Write a Java program to implement an abstract class.
-# 52.Write a Java program to implement an abstract class.
-# 53.Write a Java program to implement an abstract class.
-# 54.Write a Java program to implement an abstract class.
-# 55.Write a Java program to implement an abstract class.
-# 56.Write a Java program to implement an abstract class.
-# 57.Write a Java program to implement an abstract class.
-# 58.Write a Java program to implement an abstract class.
+# 46.Write a Java program to implement polymorphism.
 
 
 
