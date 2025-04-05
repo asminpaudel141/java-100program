@@ -74,6 +74,7 @@
 # 72.Write a Java program to implement polymorphism.
 # 73.Write a Java program to implement polymorphism.
 # 74.Write a Java program to implement polymorphism.
+# 75.Write a Java program to implement polymorphism.
 
 
 
