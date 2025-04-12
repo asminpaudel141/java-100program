@@ -47,48 +47,6 @@
 # 45.Write a Java program to implement an abstract class.
 # 46.Write a Java program to implement polymorphism.
 # 47.Write a Java program to implement polymorphism.
-# 48.Write a Java program to implement polymorphism.
-# 49.Write a Java program to implement polymorphism.
-# 50.Write a Java program to implement polymorphism.
-# 51.Write a Java program to implement polymorphism.
-# 52.Write a Java program to implement polymorphism.
-# 53.Write a Java program to implement polymorphism.
-# 54.Write a Java program to implement polymorphism.
-# 55.Write a Java program to implement polymorphism.
-# 56.Write a Java program to implement polymorphism.
-# 57.Write a Java program to implement polymorphism.
-# 58.Write a Java program to implement polymorphism.
-# 59.Write a Java program to implement polymorphism.
-# 60.Write a Java program to implement polymorphism.
-# 61.Write a Java program to implement polymorphism.
-# 62.Write a Java program to implement polymorphism.
-# 63.Write a Java program to implement polymorphism.
-# 64.Write a Java program to implement polymorphism.
-# 65.Write a Java program to implement polymorphism.
-# 66.Write a Java program to implement polymorphism.
-# 67.Write a Java program to implement polymorphism.
-# 68.Write a Java program to implement polymorphism.
-# 69.Write a Java program to implement polymorphism.
-# 70.Write a Java program to implement polymorphism.
-# 71.Write a Java program to implement polymorphism.
-# 72.Write a Java program to implement polymorphism.
-# 73.Write a Java program to implement polymorphism.
-# 74.Write a Java program to implement polymorphism.
-# 75.Write a Java program to implement polymorphism.
-# 76.Write a Java program to implement polymorphism.
-# 78.Write a Java program to implement polymorphism.
-# 79.Write a Java program to implement polymorphism.
-# 80.Write a Java program to implement polymorphism.
-# 81.Write a Java program to implement polymorphism.
-# 82.Write a Java program to implement polymorphism.
-# 83.Write a Java program to implement polymorphism.
-# 84.Write a Java program to implement polymorphism.
-# 85.Write a Java program to implement polymorphism.
-# 86.Write a Java program to implement polymorphism.
-# 87.Write a Java program to implement polymorphism.
-# 88.Write a Java program to implement polymorphism.
-# 89.Write a Java program to implement polymorphism.
-# 90.Write a Java program to implement polymorphism.
 
 
 
