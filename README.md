@@ -95,6 +95,7 @@
 # 93.Write a Java program to implement polymorphism
 # 94.Write a Java program to implement polymorphism
 # 95.Write a Java program to implement polymorphism
+# 96.Write a Java program to implement polymorphism
 
 
 
