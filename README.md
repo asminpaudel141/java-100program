@@ -45,6 +45,7 @@
 # 43.Write a Java program to implement inheritance
 # 44.Write a Java program to implement multiple inheritance using interfaces
 # 45.Write a Java program to implement an abstract class.
+# 46.Program to remove duplicate element in an array
 # 46.Write a Java program to implement polymorphism.
 # 47.Write a Java program to implement polymorphism.
 # 48.Write a Java program to implement polymorphism.
