@@ -49,11 +49,4 @@
 # 46.Write a Java program to implement polymorphism.
 # 47.Write a Java program to implement polymorphism.
 # 48.Write a Java program to implement polymorphism.
-# 49.write a java program to implement polymorphism.
-# 50.write a java program to implement polymorphism.
-# 51.write a java program to implement polymorphism.
-# 52.write a java program to implement polymorphism.
-# 53.write a java program to implement polymorphism.
-# 54.write a java program to implement polymorphism.
-# 55.write a java program to implement polymorphism.
 
