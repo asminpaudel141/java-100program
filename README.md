@@ -52,4 +52,5 @@
 # 49.Write a Java program to implement polymorphism.
 # 50.Write a Java program to implement polymorphism.
 # 51.Write a Java program to implement polymorphism.
+# 52.Write a Java program to implement polymorphism.
 
