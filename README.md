@@ -48,13 +48,4 @@
 # 46.Program to remove duplicate element in an array
 # 46.Write a Java program to implement polymorphism.
 # 47.Write a Java program to implement polymorphism.
-# 48.Write a Java program to implement polymorphism.
-# 49.Write a Java program to implement polymorphism.
-# 50.Write a Java program to implement polymorphism.
-# 51.Write a Java program to implement polymorphism.
-# 52.Write a Java program to implement polymorphism.
-# 53.Write a Java program to implement polymorphism.
-# 54.Write a Java program to implement polymorphism.
-# 55.Write a Java program to implement polymorphism.
-# 56.Write a Java program to implement polymorphism.
 
