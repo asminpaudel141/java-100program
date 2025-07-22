@@ -47,5 +47,6 @@
 # 45.Write a Java program to implement an abstract class.
 # 46.Program to remove duplicate element in an array
 # 46.Write a Java program to implement polymorphism.
-# 47.write a java program to swap 2 no without using 3rd variable.
+# 47.Write a java program to swap 2 no without using 3rd variable.
+# 48.Write a java program to swap 2 no without using 3rd variable.
 
