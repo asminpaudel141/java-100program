@@ -51,4 +51,5 @@
 # 48.Write a java program to swap 2 no without using 3rd variable.
 # 49.Write a java program to swap 2 no without using 3rd variable.
 # 50.Write a java program to swap 2 no without using 3rd variable.
+# 51.Write a java program to swap 2 no without using 3rd variable.
 
