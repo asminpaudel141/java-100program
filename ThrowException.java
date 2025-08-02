@@ -2,7 +2,7 @@
 public class ThrowException {
     static void checkAge(int age) throws Exception{
         if(age<18){
-            throw new Exception("age must be 18 or older");
+            throw new Exception("age must be 18 or older ");
         }
         System.out.println("Age is valid");
     }
