@@ -52,4 +52,5 @@
 # 49.How to throw exception in Java Program
 # 50.How to throw exception in Java Program
 # 51.How to throw exception in Java Program
+# 52.How to throw exception in Java Program
 
