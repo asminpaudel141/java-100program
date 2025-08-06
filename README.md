@@ -52,4 +52,5 @@
 # 49.How to throw exception in Java Program
 # 50.Advantage of Finally in Exception Handling Java Program.
 # 51.How to create interface in Java Program
+# 52.How to print date and time in Java Program
 
