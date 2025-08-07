@@ -5,7 +5,7 @@ class ExceptionHandling{
         try{
             int number= 10/0;
         }catch(ArithmeticException e){
-            System.out.println("cannot divide by Zero");
+            System.out.println("cannot divide by Zero ");
         }
     }
 }
