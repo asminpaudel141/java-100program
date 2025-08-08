@@ -1,3 +1,4 @@
+// Write a Java program to implement inheritance
 // Parent class
 class Parent {
     String name;
