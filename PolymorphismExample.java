@@ -1,3 +1,4 @@
+// Write a Java program to implement polymorphism.
 // Parent class
 class Animal {
     // Method to be overridden
