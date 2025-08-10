@@ -54,6 +54,4 @@
 # 51.How to create interface in Java Program
 # 52.How to print date and time in Java Program
 # 53.How to use SQL Date in Java Program
-# 54.How to use SQL Date in Java Program
-# 55.How to use SQL Date in Java Program
 
