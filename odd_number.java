@@ -1,3 +1,4 @@
+// Display odd numbers between 1 -100 
 public class odd_number {
     public static void main(String[] args){
         System.out.println("The odd number are");
