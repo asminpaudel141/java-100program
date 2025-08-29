@@ -59,4 +59,6 @@
 # 56.How to Generate random number in Java Program
 # 57.How to Generate random number in Java Program
 # 58.How to Generate random number in Java Program
+# 59.How to Generate random number in Java Program
+# 60.How to Generate random number in Java Program
 
