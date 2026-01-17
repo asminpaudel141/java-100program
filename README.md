@@ -55,5 +55,4 @@
 # 52.How to print date and time in Java Program
 # 53.How to use SQL Date in Java Program
 # 54.How to Generate random number in Java Program
-# 55.How to Generate random number in Java Program
-# 56.How to Generate random number in Java Progra
+# 55.Write a Java program using a class named Person that stores a person's name and age.
