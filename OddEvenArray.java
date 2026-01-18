@@ -24,7 +24,7 @@ public class OddEvenArray
   
   } 
   
-  System.out.print("Input numbers :"); 
+  System.out.print("Input numbers  :"); 
   
   for (i = 0; i < a.length; i++) 
   
