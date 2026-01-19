@@ -11,7 +11,7 @@ class Person {
 
     // Method to display details
     void displayInfo() {
-        System.out.println("Name: " + name);
+        System.out.println("Name:  " + name);
         System.out.println("Age: " + age);
     }
 }
