@@ -56,3 +56,4 @@
 # 53.How to use SQL Date in Java Program
 # 54.How to Generate random number in Java Program
 # 55.Write a Java program using a class named Person that stores a person's name and age.
+# 56.Write a Java program to check whether a number is even or odd using bitwise operators
