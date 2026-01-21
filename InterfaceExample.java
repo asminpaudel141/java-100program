@@ -1,16 +1,16 @@
-interface Animal {
+interface PAnimal {
     void sound();
 }
 
-class Dog implements Animal {
+class PetDog implements PAnimal {
     public void sound() {
         System.out.println("Dog barks");
     }
 }
 
-public class InterfaceExample {
+ class InterfaceExample {
     public static void main(String[] args) {
-        Dog d = new Dog();
+        PetDog d = new PetDog();
         d.sound();
     }
 }

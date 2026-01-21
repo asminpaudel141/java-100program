@@ -17,7 +17,7 @@ class Person {
 }
 
 // Main class to run the program
-public class Main {
+ class Main {
     public static void main(String[] args) {
         // Create object of Person class
         Person p = new Person("Asmin Paudel", 21);
