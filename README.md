@@ -58,3 +58,4 @@
 # 55.Write a Java program using a class named Person that stores a person's name and age.
 # 56.Write a Java program to check whether a number is even or odd using bitwise operators
 # 57.Write a Java program to convert a given decimal number into its binary
+# 58.Write a Java program to convert a given decimal number into its binary
