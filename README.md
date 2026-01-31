@@ -60,3 +60,4 @@
 # 57.Write a Java program to convert a given decimal number into its binary
 # 58.Write a Java program to determine the order of elements in an integer array.
 # 59.Write a Java program to decrement each element of an integer array by 1.
+# 60.Write a Java program to decrement each element of an integer array by 1.
