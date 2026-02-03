@@ -14,7 +14,7 @@ public class DecrementArrayElements {
 
         int[] result = decrementArrayElements(arr);
 
-        System.out.println("Array after decrementing each element:");
+        System.out.println("Array after decrementing each element :");
         System.out.println(Arrays.toString(result));
     }
 }
