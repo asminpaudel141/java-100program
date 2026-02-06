@@ -61,3 +61,4 @@
 # 58.Write a Java program to determine the order of elements in an integer array.
 # 59.Write a Java program to decrement each element of an integer array by 1.
 # 60.Check if a larger number is divisible by 13 or not
+# 61.Write a Java program to find all prime numbers up to a given number N using the Sieve of Eratosthenes technique
