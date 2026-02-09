@@ -62,4 +62,4 @@
 # 59.Write a Java program to decrement each element of an integer array by 1.
 # 60.Check if a larger number is divisible by 13 or not
 # 61.Write a Java program to find all prime numbers up to a given number N using the Sieve of Eratosthenes technique
-# 62.Write a Java program to calculate the value of nCr (Combination) using recursion
+# 62.Write a Java program to calculate the value of nCr (Combination) using recursion 
